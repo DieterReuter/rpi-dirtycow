@@ -3,7 +3,7 @@
 # infos from:
 #   https://www.redpacketsecurity.com/testing-dirty-cow-cve-2016-5195/
 # run with:
-#   $ bash README.md
+#   $ bash README.txt
 
 set -e 
 
